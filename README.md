@@ -1,0 +1,1 @@
+﻿beschreibt die wichtigsten Infos rund um das Projekt
